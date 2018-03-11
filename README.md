@@ -29,7 +29,6 @@ Get Nukkit & Plugins
 * __[Official Site & Forums](https://potestas.xyz)__
 * __[Download](https://ci.potestas.xyz/job/NukkitX/job/master)__
 
-*Thank you for visiting our official sites. Our official websites are provided free of charge, and we do not like to place ads on the home page affecting your reading. If you like this project, please [donate to us](#). All the donations will only be used for Nukkit websites and services.*
 
 Build JAR file
 -------------
